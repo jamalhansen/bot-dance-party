@@ -1,6 +1,6 @@
 # Sphero Dance Party
 
-This is a quick tutorial that uses Python and the [kulka](https://github.com/karol-szuster/kulka) module.
+This is a repo to go with a quick tutorial that uses Python and the [kulka](https://github.com/karol-szuster/kulka) module.
 
 It shows you how to use Python to make your Sphero dance.
 
